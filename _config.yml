@@ -1,0 +1,79 @@
+---
+booktitle: Proceedings of the Seventh International Workshop on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+year: '1999'
+start: 1999-01-03
+end: 1999-01-06
+published: 2020-08-20
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: Aistats1999
+month: 0
+cycles: false
+bibtex_editor: Heckerman, David and Whittaker, Joe
+editor:
+- given: David
+  family: Heckerman
+- given: Joe
+  family: Whittaker
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Seventh International Workshop on Artificial Intelligence and Statistics
+    Held in Fort Lauderdale, FL, USA on 03-06 January 1999
+
+  Published as Volume R1 by the Proceedings of Machine Learning Research on 20 August 2020.
+
+  Volume Edited by:
+    David Heckerman
+    Joe Whittaker
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 03--06 Jan
+author:
+  name: PMLR
+baseurl: "/r1"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: r1
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume: R1
+email: ''
+conference:
+  name: Seventh International Workshop on Artificial Intelligence and Statistics
+  url: 
+  location: Fort Lauderdale, FL, USA
+  dates:
+  - 1999-01-03
+  - 1999-01-04
+  - 1999-01-05
+  - 1999-01-06
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/r1/aistats99.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/r1/aistats99.bib
