@@ -16,7 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
-id: richardson20a
+id: richardson99a
 month: 0
 tex_title: Tractable Structure Search in the Presence of Latent Variables
 cycles: false
@@ -46,7 +46,7 @@ issued:
   - 1999
   - 1
   - 3
-pdf: http://proceedings.mlr.press/r2/richardson20a/richardson20a.pdf
+pdf: http://proceedings.mlr.press/r2/richardson99a/richardson99a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

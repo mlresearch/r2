@@ -19,7 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
-id: viswanathan20a
+id: viswanathan99a
 month: 0
 tex_title: A Note on the Comparison of Polynomial Selection Methods
 cycles: false
@@ -47,7 +47,7 @@ issued:
   - 1999
   - 1
   - 3
-pdf: http://proceedings.mlr.press/r2/viswanathan20a/viswanathan20a.pdf
+pdf: http://proceedings.mlr.press/r2/viswanathan99a/viswanathan99a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
