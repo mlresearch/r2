@@ -8,7 +8,7 @@ end: 1999-01-06
 published: 2020-08-20
 url: http://proceedings.mlr.press
 layout: proceedings
-series: Reissue
+series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: Aistats1999
@@ -61,6 +61,7 @@ display:
     apa: true
   comments: false
 volume: 2
+volume_type: Reissue
 email: ''
 conference:
   name: Seventh International Workshop on Artificial Intelligence and Statistics
