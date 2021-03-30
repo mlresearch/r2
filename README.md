@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check http://proc
 
 
 
-Published as Reissue 2 by the Proceedings of Machine Learning Research on 20 August 2020.
+Published as Reissue R2 by the Proceedings of Machine Learning Research on 20 August 2020.
 
 Volume Edited by:
   * David Heckerman
@@ -20,3 +20,4 @@ Volume Edited by:
 
 Series Editors:
   * Neil D. Lawrence
+  * Mark Reid
