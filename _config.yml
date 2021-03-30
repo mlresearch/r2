@@ -8,7 +8,7 @@ end: 1999-01-06
 published: 2020-08-20
 url: http://proceedings.mlr.press
 layout: proceedings
-series: Proceedings of Machine Learning Research
+series: Reissue
 publisher: PMLR
 issn: 2640-3498
 id: Aistats1999
@@ -25,7 +25,7 @@ description: |
   Proceedings of the Seventh International Workshop on Artificial Intelligence and Statistics
     Held in Fort Lauderdale, FL, USA on 03-06 January 1999
 
-  Published as Volume R1 by the Proceedings of Machine Learning Research on 20 August 2020.
+  Published as Reissue 2 by the Proceedings of Machine Learning Research on 20 August 2020.
 
   Volume Edited by:
     David Heckerman
@@ -36,7 +36,7 @@ description: |
 date_str: 03--06 Jan
 author:
   name: PMLR
-baseurl: "/r1"
+baseurl: "/v2"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
@@ -53,18 +53,18 @@ style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
-  repository: r1
+  repository: v2
 display:
   copy_button:
     bibtex: true
     endnote: true
     apa: true
   comments: false
-volume: R1
+volume: 2
 email: ''
 conference:
   name: Seventh International Workshop on Artificial Intelligence and Statistics
-  url: 
+  url:
   location: Fort Lauderdale, FL, USA
   dates:
   - 1999-01-03
@@ -74,6 +74,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/r1/aistats99.bib"
+orig_bibfile: "/Users/neil/mlresearch/r2/aistats99.bib"
 # Site settings
-# Original source:  /Users/neil/mlresearch/r1/aistats99.bib
+# Original source:  /Users/neil/mlresearch/r2/aistats99.bib

@@ -1,13 +1,8 @@
 ---
-title: Tractable structure search in the presence of latent variables
-booktitle: Proceedings of the Seventh International Workshop on Artificial Intelligence
-  and Statistics, {AISTATS} 1999, Fort Lauderdale, Florida, USA, January 3-6, 1999
-publisher: PMLR
+title: Tractable Structure Search in the Presence of Latent Variables
 year: '1999'
 url: http://uncertainty99.microsoft.com/banerjee.htm
 timestamp: Tue, 24 Sep 2019 14:23:11 +0200
-biburl: https://dblp.org/rec/conf/aistats/RichardsonBB99.bib
-bibsource: dblp computer science bibliography, https://dblp.org
 abstract: The problem of learning the structure of a DAG model in the presence of
   latent variables presents many formidable challenges. In particular there are an
   infinite number of latent variable models to consider, and these models possess
@@ -19,10 +14,11 @@ abstract: The problem of learning the structure of a DAG model in the presence o
   discussed in the context of Zellner’s Seemingly Unrelated Regression (SUR) models.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
+publisher: PMLR
 issn: 2640-3498
 id: richardson20a
 month: 0
-tex_title: Tractable structure search in the presence of latent variables
+tex_title: Tractable Structure Search in the Presence of Latent Variables
 cycles: false
 bibtex_editor: Heckerman, David and Whittaker, Joe
 editor:
@@ -39,17 +35,17 @@ author:
 - given: Moulinath
   family: Banarjees
 date: 2020-08-20
-address: 
+address:
 container-title: Proceedings of the Seventh International Workshop on Artificial Intelligence
   and Statistics
-volume: '1'
+volume: '2'
 genre: inproceedings
 issued:
   date-parts:
   - 2020
   - 8
   - 20
-pdf: http://proceedings.mlr.press/r1/richardson20a/richardson20a.pdf
+pdf: http://proceedings.mlr.press/v2/richardson20a/richardson20a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

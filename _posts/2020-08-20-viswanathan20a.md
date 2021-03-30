@@ -1,13 +1,7 @@
 ---
 title: A Note on the Comparison of Polynomial Selection Methods
-booktitle: Proceedings of the Seventh International Workshop on Artificial Intelligence
-  and Statistics, {AISTATS} 1999, Fort Lauderdale, Florida, USA, January 3-6, 1999
-publisher: PMLR
 year: '1999'
 url: http://uncertainty99.microsoft.com/comppoly.htm
-timestamp: Tue, 19 Jun 2018 18:30:12 +0200
-biburl: https://dblp.org/rec/conf/aistats/ViswanathanW99.bib
-bibsource: dblp computer science bibliography, https://dblp.org
 abstract: Minimum Message Length (MML) and Structural Risk Minimisation (SRM) are
   two computational learning principles that have achieved wide acclaim in recent
   years. Whereas the former is based on Bayesian learning and the latter on the classical
@@ -23,10 +17,11 @@ abstract: Minimum Message Length (MML) and Structural Risk Minimisation (SRM) ar
   capabilities of the Structural Risk Minimization Principle.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
+publisher: PMLR
 issn: 2640-3498
 id: viswanathan20a
 month: 0
-tex_title: A note on the comparison of polynomial selection methods
+tex_title: A Note on the Comparison of Polynomial Selection Methods
 cycles: false
 bibtex_editor: Heckerman, David and Whittaker, Joe
 editor:
@@ -40,19 +35,18 @@ author:
   family: Viswanathan
 - given: Chris S.
   family: Wallace
-date: 2020-08-20 
-publish: 1999-01-03
-address: 
+date: 2020-08-20
+address:
 container-title: Proceedings of the Seventh International Workshop on Artificial Intelligence
   and Statistics
-volume: 'R1'
+volume: '2'
 genre: inproceedings
 issued:
   date-parts:
-  - 1999
-  - 1
-  - 3
-#pdf: http://proceedings.mlr.press/v1/viswanathan20a/viswanathan20a.pdf
+  - 2020
+  - 8
+  - 20
+pdf: http://proceedings.mlr.press/v2/viswanathan20a/viswanathan20a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
